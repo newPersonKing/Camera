@@ -1,0 +1,8 @@
+{
+	"index.html": {
+		"refer": [
+			"page/camera_image.html",
+			"page/camera_video.html"
+		]
+	}
+}
